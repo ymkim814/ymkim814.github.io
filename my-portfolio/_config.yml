@@ -20,12 +20,11 @@
 
 title: Personal Portfolio
 email: ymkim814@uw.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Janice Kim's Portfolio
+description: "Janice Kim's Portfolio"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ymkim814.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  ymkim814
+github_username: ymkim814
 
 # Build settings
 theme: minima
