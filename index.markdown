@@ -18,3 +18,5 @@ Hello! I’m Janice Kim, and this is my personal portfolio. Here, you can find i
 - **Technologies Used:** Python, Flask, SQL.
 
 Feel free to explore and learn more about my work!
+
+Checkig if i is updated.
