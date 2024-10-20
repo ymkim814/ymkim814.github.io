@@ -1,20 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-
+title: Personal Portfolio
 ---
-
 
 # Welcome to My Portfolio
 
-## About Me
-Brief introduction about yourself, your background, and what you do.
+Hello! I’m Janice Kim, and this is my personal portfolio. Here, you can find information about my projects, skills, and experience. 
 
-## My Projects
-- **Project Title 1**: A brief description of the project and its technologies.
-- **Project Title 2**: A brief description of the project and its technologies.
-- **Project Title 3**: A brief description of the project and its technologies.
+## Projects
 
-## Contact
-Feel free to reach out via [email](mailto:your-email@example.com).
+### Project 1
+- **Description:** Brief description of the project.
+- **Technologies Used:** HTML, CSS, JavaScript.
+
+### Project 2
+- **Description:** Brief description of another project.
+- **Technologies Used:** Python, Flask, SQL.
+
+Feel free to explore and learn more about my work!
