@@ -5,6 +5,7 @@ gem "hyde"
 gem "jekyll-feed", "~> 0.12"
 
 gem "jekyll-paginate"
+gem "jekyll-gist"
 
 gem "logger"
 gem "csv"
